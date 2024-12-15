@@ -5,8 +5,8 @@ I'm a **Software Engineer** and **DevOps Professional** at Intel, combining soft
 As an **independent learner**, I stay up-to-date with the latest technologies and industry trends, constantly exploring new areas and improving my skills. 📚 I thrive on innovation and am always eager to tackle the next big project.
 
 ## Skills & Interests
-- **DevOps** | Infrastructure Optimization | Automation
-- **Software Engineering** | Advanced Scripting | Workflow Optimization
+- **Software Engineering** | End-to-End Workflow Optimization | Scalable Solution Design
+- **DevOps** | Creative Problem-Solving | Innovative Solutions
 - **Continuous Learning** | Tech Enthusiast | Problem Solver
 
 ## Languages & Tools
