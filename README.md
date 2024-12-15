@@ -1,6 +1,6 @@
 ## Hello, I'm Gal Ben Artzi
 
-I'm a **Software Engineer** and **DevOps Professional** at Intel, combining software engineering principles to maintain, upgrade, and enhance complex automation scripts for optimized workflows. 💻 With a strong foundation in development, I am passionate about finding scalable and efficient solutions to complex challenges. 🚀
+I'm a **Software Engineer** and **DevOps** at Intel, combining software engineering principles to maintain, upgrade, and enhance complex automation scripts for optimized workflows. 💻 With a strong foundation in development, I am passionate about finding scalable and efficient solutions to complex challenges. 🚀
 
 As an **independent learner**, I stay up-to-date with the latest technologies and industry trends, constantly exploring new areas and improving my skills. 📚 I thrive on innovation and am always eager to tackle the next big project.
 
