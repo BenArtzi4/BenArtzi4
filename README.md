@@ -14,7 +14,6 @@ As an **independent learner**, I stay up-to-date with the latest technologies an
 <img src="https://github.com/user-attachments/assets/d518e58b-7a63-4ed2-9a4f-51a6b950f449" alt="Java Logo" width="80" height="80"/>
 <img src="https://github.com/user-attachments/assets/9593027e-3126-4674-b86e-211b2ed488fc" alt="Linux Logo" width="80" height="80"/>
 <img src="https://github.com/user-attachments/assets/6aec2ac0-94e0-4925-a7b0-3172bd3011bf" alt="C Logo" width="80" height="80"/>
-<img src="https://github.com/user-attachments/assets/6e863fa5-49a8-42bb-a82a-054478471e01" alt="React Logo" width="80" height="80"/>
 <img src="https://github.com/user-attachments/assets/4b217ffc-4691-4e2e-8bc5-01f7daa546ee" alt="Javascript Logo" width="80" height="80"/>
 <img src="https://github.com/user-attachments/assets/29020858-16ce-44eb-810e-6216c79e3216" alt="HTML Logo" width="80" height="80"/>
 <img src="https://github.com/user-attachments/assets/7cb98956-ffb5-4a28-bedb-e0b5e976ef16" alt="CSS Logo" width="80" height="80"/>
