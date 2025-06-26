@@ -19,7 +19,6 @@ As an **independent learner**, I stay up-to-date with the latest technologies an
 <img src="https://github.com/user-attachments/assets/7cb98956-ffb5-4a28-bedb-e0b5e976ef16" alt="CSS Logo" width="80" height="80"/>
 <img src="https://github.com/user-attachments/assets/f0a144c1-0496-41c8-9eb7-ec53c1113035" alt="Mongo Logo" width="80" height="80"/>
 <img src="https://github.com/user-attachments/assets/9e726be0-f637-4d65-82b2-e22448df59f4" alt="Docker Logo" width="80" height="80"/>
-<img src="https://github.com/user-attachments/assets/776d8bf2-f23c-41ab-8ffb-de38ab087b13" alt="Jenkins Logo" width="80" height="80"/>
 <img src="https://github.com/user-attachments/assets/d7002cc0-b569-4c6a-a858-7af10ddbd1b0" alt="Linux Logo" width="80" height="80"/>
 
 ## Let's Connect!
